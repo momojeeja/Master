@@ -9,6 +9,8 @@ int main(void) {
     hello_world();
     printf("new update added\n");
     printf("new update in the main\n");
+    printf("new update in the release\n");
+
     return 0;
 }
 
